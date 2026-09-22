@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <!-- REPLACE 'your.email@example.com' WITH YOUR ACTUAL EMAIL ADDRESS -->
-    <a href="mailto:chirancps2003@gmail.com">
+    <a href="mailto:your.email@example.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -270,16 +270,15 @@ Testing & Debugging
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabodhaS&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Chiran's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabodhaS&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="165" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabodhaS&show_icons=true&theme=tokyonight&hide_border=true" alt="Chiran's GitHub Stats" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabodhaS&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165" />
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabodhaS&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabodhaS&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
 
 ---
 
@@ -308,7 +307,7 @@ Testing & Debugging
     <img src="https://img.shields.io/badge/GitHub-prabodhaS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <!-- REPLACE 'your.email@example.com' WITH YOUR PREFERRED EMAIL ADDRESS -->
-  <a href="mailto:chirancps2003@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-Send_Direct_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
