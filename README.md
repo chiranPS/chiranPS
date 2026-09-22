@@ -90,11 +90,12 @@ Worked on the **Kelsen Legal Information Community Platform**, contributing to c
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### Databases
+### Databases & ORMs
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### AI / Machine Learning / OCR
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -201,7 +202,21 @@ Worked on the **Kelsen Legal Information Community Platform**, contributing to c
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">5. Taste Wave Mobile App</h3>
+      <h3 align="center">5. SLTC Canteen Web Portal</h3>
+      <p align="center"><b>Online Campus Food Ordering & Digital Pass System</b></p>
+      <p>A full-stack food ordering and canteen management portal designed to streamline meal pre-orders and reduce peak-hour campus queue times.</p>
+      <ul>
+        <li>Built responsive web application using React.js, Vite, TypeScript, and Tailwind CSS.</li>
+        <li>Implemented secure Student/Staff ID authentication and advance order scheduling.</li>
+        <li>Engineered digital order pass verification via unique QR codes for instant counter pickup.</li>
+        <li>Created an administrative dashboard for menu management, live order tracking, and sales analytics.</li>
+        <li>Developed scalable REST APIs backed by Express.js, Prisma ORM, PostgreSQL, Zod validation, and Jest testing.</li>
+      </ul>
+      <p><b>Tech Stack:</b> <code>React.js</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Node.js</code> • <code>Express.js</code> • <code>Prisma</code> • <code>PostgreSQL</code> • <code>Jest</code></p>
+      <!-- ADD REPOSITORY LINK HERE: <a href="https://github.com/prabodhaS/sltc-canteen-web-portal">🔗 View Code</a> -->
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">6. Taste Wave Mobile App</h3>
       <p align="center"><b>Cross-Platform Food Ordering Application</b></p>
       <p>A companion mobile application complementing the Taste Wave restaurant ecosystem for on-the-go food ordering and real-time updates.</p>
       <ul>
@@ -213,8 +228,10 @@ Worked on the **Kelsen Legal Information Community Platform**, contributing to c
       <p><b>Tech Stack:</b> <code>Flutter</code> • <code>Firebase</code> • <code>MySQL</code> • <code>REST APIs</code></p>
       <!-- ADD REPOSITORY LINK HERE: <a href="https://github.com/prabodhaS/taste-wave-mobile">🔗 View Code</a> -->
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">6. Library Management System</h3>
+      <h3 align="center">7. Library Management System</h3>
       <p align="center"><b>Desktop & CLI Inventory Tracking Solution</b></p>
       <p>A comprehensive inventory and borrowing management application built with dual interfaces and automated unit test coverage.</p>
       <ul>
@@ -225,6 +242,9 @@ Worked on the **Kelsen Legal Information Community Platform**, contributing to c
       </ul>
       <p><b>Tech Stack:</b> <code>C#</code> • <code>.NET Framework</code> • <code>MySQL</code> • <code>xUnit</code></p>
       <!-- ADD REPOSITORY LINK HERE: <a href="https://github.com/prabodhaS/library-management-system">🔗 View Code</a> -->
+    </td>
+    <td width="50%" valign="top">
+      <!-- PLACEHOLDER FOR FUTURE PROJECT -->
     </td>
   </tr>
 </table>
@@ -244,3 +264,60 @@ Database Design
 Cloud Integrations
 Software Architecture
 Testing & Debugging
+```
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabodhaS&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Chiran's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabodhaS&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="165" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabodhaS&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
+</div>
+
+---
+
+## 🔍 Currently Exploring
+
+* 🚀 **Advanced Full-Stack Architecture:** Building highly modular, maintainable microservices & monoliths
+* 🧠 **AI/ML-Powered Applications:** Integrating modern LLMs and intelligent workflows into production software
+* 🔍 **RAG Architectures:** Retrieval-Augmented Generation for specialized domain knowledge query engines
+* 📄 **Intelligent Document Processing (IDP):** Deep learning OCR and semantic field extraction from unstructured files
+* ☁️ **Cloud-Native Systems:** Designing resilient cloud infrastructure and serverless integrations
+* ⚡ **Scalable Backend Systems:** High-concurrency APIs, caching strategies, and database optimization
+* 🛠️ **Modern Software Engineering Practices:** Continuous improvement in clean code, testing, and CI/CD pipelines
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+  <p>I am always open to discussing full-stack development, AI/ML engineering, project collaborations, or technical opportunities.</p>
+
+  <a href="https://linkedin.com/in/chiran-samarasekara-7a767a29b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Chiran_Samarasekara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/prabodhaS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-prabodhaS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- REPLACE 'your.email@example.com' WITH YOUR PREFERRED EMAIL ADDRESS -->
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Send_Direct_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+> 💡 *Building software that turns real-world problems into practical digital solutions.*
+
+</div>
