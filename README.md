@@ -268,17 +268,23 @@ Testing & Debugging
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity & Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prabodhaS&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabodhaS&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+<!-- OPTIONAL: Standard GitHub Stats Cards (Uncomment once your GitHub account has public commits/repositories)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prabodhaS&show_icons=true&theme=tokyonight&hide_border=true" alt="Chiran's GitHub Stats" height="165" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabodhaS&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabodhaS&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
-</p>
+-->
 
 ---
 
